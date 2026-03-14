@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/TheQuantAI/quantsdk"><img src="https://img.shields.io/github/stars/TheQuantAI/quantsdk?style=social" alt="GitHub Stars"></a>
-  <a href="https://pypi.org/project/quantsdk/"><img src="https://img.shields.io/pypi/v/quantsdk?color=blue&label=PyPI" alt="PyPI Version"></a>
+  <a href="https://pypi.org/project/thequantsdk/"><img src="https://img.shields.io/pypi/v/thequantsdk?color=blue&label=PyPI" alt="PyPI Version"></a>
   <a href="https://github.com/TheQuantAI/quantsdk/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License"></a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ## 🚀 Our Mission
 
-**TheQuantAI** is building the cloud platform that makes quantum computing practical. We believe quantum advantage shouldn't require a PhD in physics — just `pip install quantsdk`.
+**TheQuantAI** is building the cloud platform that makes quantum computing practical. We believe quantum advantage shouldn't require a PhD in physics — just `pip install thequantsdk`.
 
 We're a Bengaluru-based deep-tech startup operating two verticals:
 
@@ -38,7 +38,7 @@ We're a Bengaluru-based deep-tech startup operating two verticals:
 ### QuantSDK — *Write quantum code once, run anywhere*
 
 ```bash
-pip install quantsdk
+pip install thequantsdk
 ```
 
 ```python

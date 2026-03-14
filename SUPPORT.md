@@ -17,7 +17,7 @@ Have an idea? [Submit a feature request](https://github.com/TheQuantAI/quantsdk/
 
 ## 💬 Community
 
-- **Discord**: [discord.gg/thequantai](https://discord.gg/thequantai) — real-time chat
+- **Discord**: [discord.gg/uTEW77Kcj4](https://discord.gg/uTEW77Kcj4) — real-time chat
 - **GitHub Discussions**: Use the Discussions tab in each repo for Q&A
 
 ## 📧 Direct Contact
